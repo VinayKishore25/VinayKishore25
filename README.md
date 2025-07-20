@@ -1,149 +1,169 @@
 <div align="center">
-  <img height="140" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67696679632e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="140" />
 </div>
 
-# Hi 👋, I'm Munjuluri V V D Surya Kishore Vinay
+# 👋 Hi, I'm Munjuluri V V D Surya Kishore Vinay
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+%7C+Spring+Boot+Expert+%7C+System+Design+Enthusiast" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vinaykishore2512@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yourprofile)
+  <a href="https://linkedin.com/in/vinaykishore2512">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vinaykishore2512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinaykishore2512@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://vinaykishore25-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/VinayKishore25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/vinaykishore25/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-008000?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="Geeks for Geeks" />
+  </a>
+  <a href="https://www.codechef.com/users/vinaykishore25">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" />
+  </a>
 
 </div>
 
 ---
 
 <div align="center">
-  🎯 Junior Developer @ Technical Hub Pvt Ltd | 🎓 B.Tech—AI & ML | 📍 Surampalem, India  
-  ✨ Passionate about **Spring Boot**, **System Design**, and scalable software solutions!
+  🎯 Junior Developer @ Technical Hub Pvt Ltd <br/>
+  🎓 B.Tech—AI & ML <br/>
+  📍 Surampalem, India <br/>
+  ✨ Passionate about <b>Spring Boot</b>, <b>System Design</b>, <b>Competitive Programming</b>, and <b>Scalable Software Solutions</b>!
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚩 Competitive Programming
 
-public class Developer {
-private String name = "Vinay";
-private String role = "Full Stack Developer";
-private String[] strengths = {"Spring Boot", "System Design", "Problem Solving"};
-private boolean isAlwaysLearning = true;
+- 🏆 **650+ LeetCode problems** solved (Rating: 1755)
+- 🏅 **650+ GeeksforGeeks** problems (Score: 1850, Rating: 1716)
+- ⭐ **5-star badges** on HackerRank in C, Python, Java
+- 👨‍💻 Active participant on CodeChef and coding contests
+- 🥉 3rd place, Technical Hub Monthly Coding Contest
 
-text
-public void sayHello() {
-System.out.println("Building scalable systems, one commit at a time 🚀");
-}
-}
-
-text
-
-- 🌱 Exploring advanced **Spring Boot** features & system architectures
-- 🔗 Love collaborating on backend, scalability and microservices
-- 🔭 Currently solving complex problems and fine-tuning product reliability
-- ⚡ Fun fact: **650+ LeetCode problems solved!**
+_Competitive programming sharpens my problem solving, algorithmic, and coding skills, powering my approach to real-world software engineering challenges._
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<div align="center">
+
+  <h4>👨‍💻 Languages</h4>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br/><br/>
+
+  <h4>🎨 Frontend</h4>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <br/><br/>
+
+  <h4>🖥️ Backend</h4>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <br/><br/>
+
+  <h4>🗄️ Databases</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+  <br/><br/>
 
-### Spring Boot Focus
+  <h4>🛠️ Tools & Platforms</h4>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <br/><br/>
 
-- RESTful APIs & Microservices
-- Enterprise-grade backend development
-- Fast, secure, scalable architectures
-- Database integrations (PostgreSQL, MongoDB, MySQL)
-- Performance tuning, security, and CI/CD
+  <h4>🏗️ System Design</h4>
+  <p>Microservices, scalable and reliable architectures<br/>
+    Designing end-to-end solutions with reliability and efficiency
+  </p>
 
-### System Design Strengths
-
-- Highly available, low-latency systems
-- Event-driven architecture, microservices, cloud-native best practices
-- Scalability, reliability, high-throughput solutions
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🌱 Current Focus
 
-- 650+ **LeetCode** problems solved (contest rating: 1755)
-- 650+ **GeeksforGeeks** problems (score: 1850, rating: 1716)
-- 5-star **HackerRank** badges: C, Python, Java
-- 3rd place, Technical Hub Monthly Coding Contest
+- Deep-diving into advanced **Spring Boot** features and system architectures
+- Collaborating on backend, scalability, and microservices projects
+- Solving complex problems, enhancing product reliability
+- Always learning something new in the world of software
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Spring Boot & System Design
+
+- 🌐 RESTful APIs & Microservices
+- ⚡ Enterprise-Grade Backend Development
+- 📈 Scalable, Fast, and Secure Architectures
+- 🗄️ Integration: PostgreSQL, MongoDB, MySQL
+- 🔒 Performance Tuning, Security, CI/CD Pipelines
+- ☁️ Highly Available, Low-Latency Systems; Cloud-Native Best Practices
+
+---
+
+## 📚 Certifications
+
+- NPTEL: **DBMS, Java Programming, C Programming**
+- **Red Hat:** Certified System Administrator
+- **Oracle:** Database Foundations
+- **ServiceNow:** Certified Admin & App Developer
+- **Pearson:** IT Specialist – JavaScript
+
+---
+
+## 🚀 Featured Projects
 
 ### 🚨 Connect App
-
-> _React Native | Spring Boot | PostgreSQL | ExpressJS | MongoDB_  
-> Women’s safety (SOS, fake call, geofencing), blood donation and ambulance tracking.  
-> Designed with robust, scalable backend & real-world impact.
+<sup>React Native · Spring Boot · PostgreSQL · ExpressJS · MongoDB</sup>
+<br/>
+Women’s safety, fake call, SOS, geofencing, blood donation, ambulance tracking  
+<sub>Robust, scalable backend. Real-world impact.</sub>
 
 ### 🤖 Matrix AI
-
-> _ReactJS + ExpressJS + PostgreSQL + Material UI_  
-> AI answer comparator with high concurrency and lightning-fast response orchestration.
+<sup>ReactJS · ExpressJS · PostgreSQL · Material UI</sup>
+<br/>
+AI answer comparator with high concurrency and lightning-fast responses
 
 ### 🎪 Veda Website
-
-> _ReactJS + ExpressJS + MongoDB_  
-> Event registration for 8,800+ users with high-reliability event-driven backend.
-
----
-
-## 🎓 Certifications
-
-- NPTEL: DBMS, Java Programming, C Programming
-- Red Hat: Certified System Administrator
-- Oracle: Database Foundations
-- ServiceNow: Certified Admin & App Developer
-- Pearson: IT Specialist - JavaScript
+<sup>ReactJS · ExpressJS · MongoDB</sup>
+<br/>
+Event registration for 8,800+ users powered by event-driven backend
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayKishore25&show_icons=true&theme=radical" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKishore25&theme=radical" height="140"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayKishore25&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKishore25&theme=radical" height="150"/>
+</div>
 
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Email-vinaykishore2512@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vinaykishore2512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaykishore2512/)
-
+  <a href="mailto:vinaykishore2512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinaykishore2512@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/vinaykishore2512">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-⭐ _Building tomorrow's solutions with today's technology!_ ⭐  
-![Profile Views](https://komarev.com/ghpvc/?username=VinayKishore25&color=brightgreen&style=for-the-badge)
-
+  ⭐ _Building tomorrow's solutions with today's technology!_ ⭐ <br/>
+  <img src="https://komarev.com/ghpvc/?username=VinayKishore25&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </div>
